@@ -1,0 +1,4 @@
+interface:
+  display_name: "FISHER MOSS 提示词扩写"
+  short_description: "从一句话或参考图生成详细中文视觉提示词，准确组织人物互动、场景、光色与媒介"
+  default_prompt: "使用 $fisher-moss-prompt-expander，将我的一句话或参考图片扩写为详细、可直接复制的中文图像提示词。"
